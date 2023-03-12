@@ -1,6 +1,6 @@
-# fundamentos-web
+# Fundamentos Web
 
-Seja bem vindo(a), este código foi desenvolvido para aprender os primeiros fundamentos de HTML,JS e CSS. 
+Seja bem vindo(a), este código foi desenvolvido para aprender os primeiros fundamentos de HTML, JS e CSS. 
 
 
 ## Preview
